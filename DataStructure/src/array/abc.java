@@ -40,14 +40,6 @@ public class ArrayRotation {
 		int n = arr.length;
 		for(int i = 0; i < n; i++) 
 			System.out.print(arr[i]+" ");
-	}
-	
-	public static void main(String[] args) {
-		ArrayRotation r = new ArrayRotation();
-		int[] arr = {1,2,3,4,5,6,7};
-		System.out.println("Array before Rotation: ");
-		r.printArr(arr);
-		System.out.println("\nArray after Rotation: ");
-		r.printArr(r.rightRotate(arr, 2));
+	}tate(arr, 2));
 	}
 }
