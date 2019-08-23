@@ -14,6 +14,7 @@ public class Test {
 		System.out.println("Array before Rotation: ");
 		t.printArr(arr);
 		System.out.println("\nArray after Rotation: ");
-		t.printArr(r.arrayRotate(arr,2));
+		
+		
 	}
 }
