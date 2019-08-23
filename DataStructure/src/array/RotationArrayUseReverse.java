@@ -16,6 +16,5 @@ public class RotationArrayUseReverse {
 		return temp;
 		
 		
-		
 	}
 }
