@@ -1,10 +1,5 @@
 package array;
 
-public class abc {
-
-}
-package array;
-
 public class ArrayRotation {
 
 	public int[] leftRotate(int[] arr, int indexRotate) {
